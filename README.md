@@ -54,7 +54,8 @@ initial_yard = [
 
 goal_train = ['A', 'A', 'A', 'A', 'B', 'B', 'B', 'C', 'C']
 ```
-![etapa](https://github.com/user-attachments/assets/3541ae49-78ac-4ffa-8b35-ca03d2346f9a)
+![{9A4E14FD-C94C-412F-9D0C-DB0279F71043}](https://github.com/user-attachments/assets/18a0cdf2-0409-409d-9327-20db15224a51)
+
 
 El algoritmo encontró una **solución óptima** que permite retirar los contenedores requeridos en el orden deseado, utilizando el **mínimo número de movimientos**. Además, devuelve la **secuencia detallada de pasos** para ejecutarlo de forma operativa.
 
